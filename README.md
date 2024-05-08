@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sahanchamuditha" target="blank"><img src="https://img.shields.io/twitter/follow/sahanchamuditha?logo=twitter&style=for-the-badge" alt="sahanchamuditha" /></a> </p>
 
-- 🔭 I’m currently working on **3D Customizer in MERN Stack**
+- 🔭 I’m currently working on **MERN Stack Ecommerce Application**
 
 - 🌱 I’m currently learning **Java Springboot with REST API**
 
