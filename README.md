@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MERN Stack Ecommerce Application**
 
-- 🌱 I’m currently learning **Java Springboot with REST API**
+- 🌱 I’m currently learning **Java Springboot REST API**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
