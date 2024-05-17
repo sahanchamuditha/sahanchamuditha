@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **React, Vite**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **sahankulathunga25@gmail.com**
 
