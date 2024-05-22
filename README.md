@@ -33,7 +33,11 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahanchamuditha&show_icons=true&locale=en&layout=compact" alt="sahanchamuditha" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahanchamuditha&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="sahanchamuditha" /></p>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahanchamuditha&show_icons=true&locale=en" alt="sahanchamuditha" /></p> -->
 
